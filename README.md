@@ -23,8 +23,17 @@ Listausta tehdään osana [IFDEA-hankkeen](https://www.tuni.fi/fi/tutkimus/ifdea
 * https://github.com/GiorgioBalestrieri/cams_radiation_python - A Python client for the CAMS radiation service.
 * https://openweathermap.org/
 
+## EU-data
+
+* https://agri4cast.jrc.ec.europa.eu/DataPortal/Index.aspx - Agri4cast resources portal. 
+* https://www.ecmwf.int/ - European Centre for Medium-Range Weather Forecasts.
+* https://esdac.jrc.ec.europa.eu/ - European soil data centre
+* 
+
 ## Satelliitti:
-* Sentinel, https://github.com/sentinel-hub
+* https://www.sentinel-hub.com/ - Sentinel Hub
+  * Sentinel hub client software etc, https://github.com/sentinel-hub
+  * https://github.com/sentinel-hub/eo-learn - Earth observation processing framework for machine learning in Python
 * https://github.com/ollinevalainen/satellitetools - Python client, pelto-observatorin satellittihaut google earthista
 
 ## Datakuvaukset
@@ -96,6 +105,7 @@ Maaperä ja vesimallit:
 * https://github.com/hamk-uas - HAMK Häme University of Applied Sciences 
 * https://github.com/tuni-agri - Maataloustutkimus, Tampereen yliopisto, Pori
 * https://github.com/lukefi - Natural Resources Institute Finland (Luonnonvarakeskus) 
+* https://avointieto.ruokavirasto.fi/ - Ruokavirasto, avoin data
 
 # Muita repo-kokoelmia:
 
