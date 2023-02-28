@@ -6,6 +6,14 @@ Puuttuuko jotain oleellista? Tarviiko korjauksia? Lähetä muokkauspyyntö joko 
 
 Listausta tehdään osana [IFDEA-hankkeen](https://www.tuni.fi/fi/tutkimus/ifdea) (2021-2023) tavoitteita.
 
+# Käytäntöyhteisö
+
+Paikkoja ja nettialustoja, joissa avointa työskentelyä ja keskustelua tämän aihepiirin ympärillä tapahtuu. Yhteistyö ja sen työkalut hakevat yhä muotoaan, ja tekijät ovat toistaiseksi melko hajallaan.
+
+* Agrihubi Github https://github.com/Agrihubi - Tämä Git-repository. Lähinnä linkkihakemisto toistaiseksi. 
+* Agri Data Finland - Keskustelua Discord-alustalla: https://discord.gg/p5quCj3g6R
+* Maaseutuverkosto/Agrihubi verkkosivuso https://maaseutuverkosto.fi/ - Tapahtumakalenteri, keskustelufoorumi
+* Some-tageja (Mastodon, Twitter, yms): #AgriHubi, #AgriData (mitä muita?) - Etsi tai käytä, jos haluat löytää tai tulla löydetyksi.
 
 
 # Data, rajapinnat
