@@ -19,7 +19,12 @@ Paikkoja ja nettialustoja, joissa avointa työskentelyä ja keskustelua tämän 
 # Data, rajapinnat
 
 * Paituli,  on paikkatietoaineistojen lataus- ja rajapintapalvelu, https://paituli.csc.fi/
-* LUKE, datasetttejä ja rajapintoja, https://opendata.luke.fi/dataset 
+* Luonnonvarakeskus - datasettejä ja rajapintoja
+  * https://opendata.luke.fi/dataset 
+  * https://luonnonvaratieto.luke.fi/etusivu
+  * https://statdb.luke.fi - tilastotietokanta
+  * https://px.luke.fi/PxWeb/pxweb/fi/ - tutkimustulostietokannat
+
 * SYKEn avoimet rajapinnat, https://www.syke.fi/fi-FI/Avoin_tieto/Avoimet_rajapinnat ja aineistot https://www.syke.fi/fi-FI/Avoin_tieto/Paikkatietoaineistot/Ladattavat_paikkatietoaineistot ja karttpalvelut https://www.syke.fi/fi-FI/Avoin_tieto/Karttapalvelut
 * Ruokavirasto - Inspire - https://www.ruokavirasto.fi/tietoa-meista/avointieto/inspire/
 * Kasvinsuojeluaineet -  https://www.avoindata.fi/data/fi/dataset/kasvinsuojeluaineet
@@ -47,13 +52,18 @@ Paikkoja ja nettialustoja, joissa avointa työskentelyä ja keskustelua tämän 
 ## Datakuvaukset
 Listaus eri datakuvaus-standardeista tai avoimista menetelmistä, joiden avulla määritellään datan rakenteita ja kenttien määrittelyjä. Esimerkiksi Isobus ja AgGateway. 
 
-
 * AgGateway - Adapt 
   - https://www.aggateway.org/GetConnected/ADAPT(inter-operability).aspx
   - https://github.com/ADAPT/ADAPT
-
 * inspire
   - https://github.com/INSPIRE-MIF/
+* DEMETER Agriculture Information Model - https://agroportal.lirmm.fr/ontologies/DEMETER-AIM/?p=classes
+* Open Geospatial Consortium, Agricultural Information Model (OGC-AIM) - https://www.ogc.org/requests/public-comment-requested-agriculture-information-model-standards-working-group-charter/
+* The International Consortium for Agricultural Systems Applications (ICASA) Vocabulary - https://agmip.github.io/ICASA.html
+* Agrisemantics Map of Standards - https://vest.agrisemantics.org/
+* AGROVOC Multilingual Thesaurus - https://agrovoc.fao.org/browse/agrovoc/en/ 
+* Pelto-observatiorion (json-)skeemakuvauksia - https://github.com/hamk-uas/fieldobservatory-data-schemas 
+
   
 # Koodi
 
@@ -62,7 +72,7 @@ Listaus eri datakuvaus-standardeista tai avoimista menetelmistä, joiden avulla 
 * https://www.oskari.org/ - Oskari map application platform. Avoimen lähdekoodin paikkatietoalusta. Esim paikkatietoikkuna pohjautuu tähän.
 * Gaia-x https://gitlab.com/gaia-x
 * IDS, https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0
-* Peltodata, https://bitbucket.org/peltodata/, tulossa  https://github.com/tuni-agri
+* data, https://bitbucket.org/peltodata/, tulossa  https://github.com/tuni-agri
 * Geonetworks, Metatiedon hallinta, https://github.com/geonetwork/core-geonetwork
 * farmOS - Web-based farm management and recordkeeping, https://github.com/farmOS
 * QField, https://github.com/opengisch/QField
@@ -99,8 +109,11 @@ Maaperä ja vesimallit:
 * https://kartta.paikkatietoikkuna.fi/ - Kansallinen paikkatietoportaali, joka esittelee paikkatietoaineistoja ja -palveluja sekä niiden hyödyntämismahdollisuuksia.
 * https://www.vesi.fi/ - Vesi.fi on vesiaiheisen tutkitun tiedon lähde,
 * https://agrirouter.com/- With your individual agrirouter you can connect your agricultural machinery, no matter what brand, with many agricultural software solutions.
-* https://www.fieldobservatory.org/fi/online-field-data-fi/ - Pelto-observatorio, mittauksia tutkimuspelloilla olevilta sensoreilta ja satelliiteista, Carbon action -hankkeessa kehitetty.
-' https://peltodata.fi/ - Peltodata-palvelu, prototyyppi- ja kehitysalusta, Tampereen yliopiston maataloushankkeet.
+* Pelto-observatorio
+  * https://www.fieldobservatory.org/fi/online-field-data-fi/ - Pelto-observatorio, mittauksia tutkimuspelloilla olevilta sensoreilta ja satelliiteista, Carbon action -hankkeessa kehitetty.
+  * Artikkeli: Towards agricultural soil carbon monitoring, reporting, and verification through the Field Observatory Network (FiON) - https://doi.org/10.5194/gi-11-93-2022
+  * https://github.com/hamk-uas/fieldobservatory-data-schemas - Pelto-observatiorion (json-)skeemakuvauksia
+* https://peltodata.fi/ - Peltodata-palvelu, prototyyppi- ja kehitysalusta, Tampereen yliopiston maataloushankkeet.
 
 # Projektit yms
 
@@ -114,6 +127,11 @@ Maaperä ja vesimallit:
 * https://github.com/tuni-agri - Maataloustutkimus, Tampereen yliopisto, Pori
 * https://github.com/lukefi - Natural Resources Institute Finland (Luonnonvarakeskus) 
 * https://avointieto.ruokavirasto.fi/ - Ruokavirasto, avoin data
+
+# Artikkeleita, raportteja, opinnäytetöitä yms.
+
+* Towards agricultural soil carbon monitoring, reporting, and verification through the Field Observatory Network (FiON) - https://doi.org/10.5194/gi-11-93-2022
+
 
 # Muita repo-kokoelmia:
 
