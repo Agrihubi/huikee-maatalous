@@ -62,7 +62,8 @@ Listaus eri datakuvaus-standardeista tai avoimista menetelmistä, joiden avulla 
 * The International Consortium for Agricultural Systems Applications (ICASA) Vocabulary - https://agmip.github.io/ICASA.html
 * Agrisemantics Map of Standards - https://vest.agrisemantics.org/
 * AGROVOC Multilingual Thesaurus - https://agrovoc.fao.org/browse/agrovoc/en/ 
-* Pelto-observatiorion (json-)skeemakuvauksia - https://github.com/hamk-uas/fieldobservatory-data-schemas 
+* Pelto-observatiorion (json-)skeemakuvauksia - https://github.com/hamk-uas/fieldobservatory-data-schemas
+* Excel forms for field vegetation observations / Peltokasvuston Excel-havaintolomakkeet - https://github.com/hamk-uas/field-vegetation-observations
 
   
 # Koodi
