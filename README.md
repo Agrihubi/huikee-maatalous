@@ -132,7 +132,7 @@ Maaperä ja vesimallit:
 # Artikkeleita, raportteja, opinnäytetöitä yms.
 
 * Towards agricultural soil carbon monitoring, reporting, and verification through the Field Observatory Network (FiON) - https://doi.org/10.5194/gi-11-93-2022
-
+* Ohjelmistokeskeinen automaatio peltojen vesitalouden hallinnassa - https://www.theseus.fi/handle/10024/795901 - https://github.com/raisiope/SSK/
 
 # Muita repo-kokoelmia:
 
