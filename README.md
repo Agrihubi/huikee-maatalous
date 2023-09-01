@@ -51,19 +51,21 @@ Paikkoja ja nettialustoja, joissa avointa työskentelyä ja keskustelua tämän 
 
 ## Datakuvaukset
 Listaus eri datakuvaus-standardeista tai avoimista menetelmistä, joiden avulla määritellään datan rakenteita ja kenttien määrittelyjä. Esimerkiksi Isobus ja AgGateway. 
-
+* Sanastoja ja käsitteistöjä
+ - AGROVOC Multilingual Thesaurus - https://agrovoc.fao.org/browse/agrovoc/en/
+ - Agrisemantics Map of Standards - https://vest.agrisemantics.org/
+ - The International Consortium for Agricultural Systems Applications (ICASA) Vocabulary - https://agmip.github.io/ICASA.html
+ - DEMETER Agriculture Information Model - https://agroportal.lirmm.fr/ontologies/DEMETER-AIM/?p=classes
+ - Open Geospatial Consortium, Agricultural Information Model (OGC-AIM) - https://www.ogc.org/press-release/ogc-forms-new-agriculture-information-model-standards-working-group/
 * AgGateway - Adapt 
   - https://www.aggateway.org/GetConnected/ADAPT(inter-operability).aspx
   - https://github.com/ADAPT/ADAPT
 * inspire
+  - INSPIRE Data Specification on Agricultural and Aquaculture Facilities – Technical Guidelines - https://inspire.ec.europa.eu/id/document/tg/af
   - https://github.com/INSPIRE-MIF/
-* DEMETER Agriculture Information Model - https://agroportal.lirmm.fr/ontologies/DEMETER-AIM/?p=classes
-* Open Geospatial Consortium, Agricultural Information Model (OGC-AIM) - https://www.ogc.org/requests/public-comment-requested-agriculture-information-model-standards-working-group-charter/
-* The International Consortium for Agricultural Systems Applications (ICASA) Vocabulary - https://agmip.github.io/ICASA.html
-* Agrisemantics Map of Standards - https://vest.agrisemantics.org/
-* AGROVOC Multilingual Thesaurus - https://agrovoc.fao.org/browse/agrovoc/en/ 
-* Pelto-observatiorion (json-)skeemakuvauksia - https://github.com/hamk-uas/fieldobservatory-data-schemas
-* Excel forms for field vegetation observations / Peltokasvuston Excel-havaintolomakkeet - https://github.com/hamk-uas/field-vegetation-observations
+* Esimerkkejä 
+  * Pelto-observatiorion (json-)skeemakuvauksia - https://github.com/hamk-uas/fieldobservatory-data-schemas
+  * Excel forms for field vegetation observations / Peltokasvuston Excel-havaintolomakkeet - https://github.com/hamk-uas/field-vegetation-observations
 
   
 # Koodi
