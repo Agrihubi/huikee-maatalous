@@ -89,7 +89,7 @@ Listaus eri datakuvaus-standardeista tai avoimista menetelmistä, joiden avulla 
 ## Ajo-opastin:
 
 * AgOpenGPS, https://github.com/farmerbriantee/AgOpenGPS
-* Esityskalvot aiheesta, https://github.com/petrilinna/agopengps
+* Esityskalvot AgOpenGPS- ja RTK -aiheista, https://github.com/petrilinna/agopengps
 
 
 ## Analysointityökaluja:
