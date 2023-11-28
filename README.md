@@ -28,7 +28,7 @@ Paikkoja ja nettialustoja, joissa avointa työskentelyä ja keskustelua tämän 
 * SYKEn avoimet rajapinnat, https://www.syke.fi/fi-FI/Avoin_tieto/Avoimet_rajapinnat ja aineistot https://www.syke.fi/fi-FI/Avoin_tieto/Paikkatietoaineistot/Ladattavat_paikkatietoaineistot ja karttpalvelut https://www.syke.fi/fi-FI/Avoin_tieto/Karttapalvelut
 * Ruokavirasto - Inspire - https://www.ruokavirasto.fi/tietoa-meista/avointieto/inspire/
 * Kasvinsuojeluaineet -  https://www.avoindata.fi/data/fi/dataset/kasvinsuojeluaineet
-
+* Maatalous, kalastus, metsätalous ja elintarvikkeet -ryhmä avoindata.fi -palvelussa - https://www.avoindata.fi/data/fi/group/maatalous-kalastus-metsatalous-ja-elintarvikkeet
 ## Säätieto:
 
 * FMI - ilmatieteen laitos, https://github.com/fmidev
