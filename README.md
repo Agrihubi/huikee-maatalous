@@ -32,10 +32,10 @@ Paikkoja ja nettialustoja, joissa avointa työskentelyä ja keskustelua tämän 
 ## Säätieto:
 
 * FMI - ilmatieteen laitos
- * https://en.ilmatieteenlaitos.fi/open-data-manual
- * Säähavaintojen lataus - https://www.ilmatieteenlaitos.fi/havaintojen-lataus
- * FMI Gtihubissa - https://github.com/fmidev
- * FMI datojen valmiita parsinta koodeja, https://github.com/pnuu/fmiopendata
+  * https://en.ilmatieteenlaitos.fi/open-data-manual
+  * Säähavaintojen lataus - https://www.ilmatieteenlaitos.fi/havaintojen-lataus
+  * FMI GitHubissa - https://github.com/fmidev
+  * FMI datojen valmiita parsinta koodeja, https://github.com/pnuu/fmiopendata
 * https://github.com/GiorgioBalestrieri/cams_radiation_python - A Python client for the CAMS radiation service.
 * https://openweathermap.org/
 
