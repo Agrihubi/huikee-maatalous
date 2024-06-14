@@ -31,8 +31,11 @@ Paikkoja ja nettialustoja, joissa avointa työskentelyä ja keskustelua tämän 
 * Maatalous, kalastus, metsätalous ja elintarvikkeet -ryhmä avoindata.fi -palvelussa - https://www.avoindata.fi/data/fi/group/maatalous-kalastus-metsatalous-ja-elintarvikkeet
 ## Säätieto:
 
-* FMI - ilmatieteen laitos, https://github.com/fmidev
-* FMI datojen valmiita parsinta koodeja, https://github.com/pnuu/fmiopendata
+* FMI - ilmatieteen laitos
+ * https://en.ilmatieteenlaitos.fi/open-data-manual
+ * Säähavaintojen lataus - https://www.ilmatieteenlaitos.fi/havaintojen-lataus
+ * FMI Gtihubissa - https://github.com/fmidev
+ * FMI datojen valmiita parsinta koodeja, https://github.com/pnuu/fmiopendata
 * https://github.com/GiorgioBalestrieri/cams_radiation_python - A Python client for the CAMS radiation service.
 * https://openweathermap.org/
 
