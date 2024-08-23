@@ -26,7 +26,7 @@ Paikkoja ja nettialustoja, joissa avointa työskentelyä ja keskustelua tämän 
   * https://px.luke.fi/PxWeb/pxweb/fi/ - tutkimustulostietokannat
 
 * SYKEn avoimet rajapinnat, https://www.syke.fi/fi-FI/Avoin_tieto/Avoimet_rajapinnat ja aineistot https://www.syke.fi/fi-FI/Avoin_tieto/Paikkatietoaineistot/Ladattavat_paikkatietoaineistot ja karttpalvelut https://www.syke.fi/fi-FI/Avoin_tieto/Karttapalvelut
-* Ruokavirasto - Inspire - https://www.ruokavirasto.fi/tietoa-meista/avointieto/inspire/
+* Ruokavirasto - Paikkatietoaineistot - mm. pelto- ja kasvulohkot [https://www.ruokavirasto.fi/tietoa-meista/avointieto/inspire/](https://www.ruokavirasto.fi/tietoa-meista/avointieto/paikkatietoaineistot/)
 * Kasvinsuojeluaineet -  https://www.avoindata.fi/data/fi/dataset/kasvinsuojeluaineet
 * Maatalous, kalastus, metsätalous ja elintarvikkeet -ryhmä avoindata.fi -palvelussa - https://www.avoindata.fi/data/fi/group/maatalous-kalastus-metsatalous-ja-elintarvikkeet
 ## Säätieto:
