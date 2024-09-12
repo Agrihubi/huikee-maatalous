@@ -104,7 +104,7 @@ Listaus eri datakuvaus-standardeista tai avoimista menetelmistä, joiden avulla 
 
 Maaperä-, vesi- ja kasvimallit:
 * AquaCrop,  https://github.com/aquacropos/aquacrop
-* Python Crop Simulation Environment - PCSEhttps://github.com/ajwdewit/pcse
+* Python Crop Simulation Environment - PCSE, https://github.com/ajwdewit/pcse
 
 # Data-infrastruktuuri
 
