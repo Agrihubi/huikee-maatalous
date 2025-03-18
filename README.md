@@ -52,10 +52,12 @@ Paikkoja ja nettialustoja, joissa avointa työskentelyä ja keskustelua tämän 
   * https://github.com/sentinel-hub/eo-learn - Earth observation processing framework for machine learning in Python
 * https://github.com/ollinevalainen/satellitetools - Python client, pelto-observatorin satellittihaut google earthista
 
-## Datakuvaukset
+## Datakuvaukset & sanastot
 Listaus eri datakuvaus-standardeista tai avoimista menetelmistä, joiden avulla määritellään datan rakenteita ja kenttien määrittelyjä. Esimerkiksi Isobus ja AgGateway. 
 * Sanastoja ja käsitteistöjä
  - AGROVOC Multilingual Thesaurus - https://agrovoc.fao.org/browse/agrovoc/en/
+ - SKOSMOS, vocabulary and SPARQL tool, https://github.com/NatLibFi/Skosmos
+ - The NAL Agricultural Thesaurus, https://lod.nal.usda.gov/nalt/en/
  - Agrisemantics Map of Standards - https://vest.agrisemantics.org/
  - The International Consortium for Agricultural Systems Applications (ICASA) Vocabulary - https://agmip.github.io/ICASA.html
  - DEMETER Agriculture Information Model - https://agroportal.lirmm.fr/ontologies/DEMETER-AIM/?p=classes
@@ -83,6 +85,8 @@ Listaus eri datakuvaus-standardeista tai avoimista menetelmistä, joiden avulla 
 * farmOS - Web-based farm management and recordkeeping, https://github.com/farmOS
 * QField, https://github.com/opengisch/QField
 * Microsoft farmbeats, https://learn.microsoft.com/en-us/azure/industry/agriculture/install-azure-farmbeats, https://github.com/microsoft/farmvibes-ai
+* Digital Twin Farm, https://www.jamk.fi/en/project/finnish-future-farm
+
 
 ## Lidar 
 
@@ -105,12 +109,14 @@ Listaus eri datakuvaus-standardeista tai avoimista menetelmistä, joiden avulla 
 Maaperä-, vesi- ja kasvimallit:
 * AquaCrop,  https://github.com/aquacropos/aquacrop
 * Python Crop Simulation Environment - PCSE, https://github.com/ajwdewit/pcse
+* 
 
 # Data-infrastruktuuri
 
+* Datanvälityspalvelu; https://tritom.com/essential/, https://tritom.com/
 * https://gitlab.com/gaia-x/data-infrastructure-federation-services
 * https://www.gxfs.eu/ - Gaia-X Federation Services
-* 
+* https://testbed.fi/
 
 # Palvelut
 
@@ -122,6 +128,7 @@ Maaperä-, vesi- ja kasvimallit:
   * Artikkeli: Towards agricultural soil carbon monitoring, reporting, and verification through the Field Observatory Network (FiON) - https://doi.org/10.5194/gi-11-93-2022
   * https://github.com/hamk-uas/fieldobservatory-data-schemas - Pelto-observatiorion (json-)skeemakuvauksia
 * https://peltodata.fi/ - Peltodata-palvelu, prototyyppi- ja kehitysalusta, Tampereen yliopiston maataloushankkeet.
+* 
 
 # Projektit yms
 
