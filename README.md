@@ -56,6 +56,7 @@ Paikkoja ja nettialustoja, joissa avointa työskentelyä ja keskustelua tämän 
 Listaus eri datakuvaus-standardeista tai avoimista menetelmistä, joiden avulla määritellään datan rakenteita ja kenttien määrittelyjä. Esimerkiksi Isobus ja AgGateway. 
 * Sanastoja ja käsitteistöjä
  - AGROVOC Multilingual Thesaurus - https://agrovoc.fao.org/browse/agrovoc/en/
+ - Suomalainen sanastopalvelu, https://finto.fi/fi/, esim. yso yleinen sanasto; https://finto.fi/yso/fi/
  - SKOSMOS, vocabulary and SPARQL tool, https://github.com/NatLibFi/Skosmos
  - The NAL Agricultural Thesaurus, https://lod.nal.usda.gov/nalt/en/
  - Agrisemantics Map of Standards - https://vest.agrisemantics.org/
